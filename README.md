@@ -1,6 +1,6 @@
 ### EJERCICIO DE ESTRUCTURAS ###
 
-Este archivo README describe las estructuras de datos necesarias para el ejercicio y los enunciados de los ejercicios que hayq ue hacer. 
+Este archivo README describe las estructuras de datos necesarias para el ejercicio y los enunciados de los ejercicios que hayq ue hacer
 
 A continuación, se detallan las estructuras que debes implementar: EJER
 
@@ -50,16 +50,7 @@ Nombre: Pantalón, Precio: $30, Cantidad: 30
 Nombre: Zapatos, Precio: $50, Cantidad: 40
 Nombre: Camisa, Precio: $20, Cantidad: 50
 ```
-3. `buscar_producto(nombre)`: Busca un producto en el inventario por nombre
-y muestra sus detalles si se encuentra. Debe recibir el nombre del producto
-como parámetro.
-- Utiliza un bucle `for` para recorrer el inventario.
-- Compara los nombres de los productos con el nombre proporcionado.
-- Si se encuentra el producto, imprime sus detalles.
-- Debe mostrar:
-```python
-Nombre: Camisa, Precio: $20, Cantidad: 40
-```
+ventario
 4. `actualizar_stock(nombre, cantidad)`: Actualiza el stock de un producto
 en el inventario. Debe recibir el nombre del producto y la cantidad a
 agregar o quitar como parámetros.
@@ -100,6 +91,6 @@ compras.
 producto que desea comprar.
 - Registra los productos seleccionados en un carrito y actualiza el
 inventario.
-3 / 6
+3 / 6git restore
 evaluacion-final-pt.md 2024-10-07
 - Calcula el costo total de la compra.
